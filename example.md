@@ -1,20 +1,20 @@
-**About**(h1)
+**About**
 
 Hi I am Jungho Kim. I am interested in open scource software programming.
-
+---
 **Skills**
 
 Can use C, Cpp, and Python
-
-**Education** (h1)
+---
+**Education** 
 
 + **SKKU**, South Korea
     B.S., Computer Engineering, 2023~
-
+---
 **Achievements and Certifications**
 
 None
-
+---
 **Contact**
 
 Github: jungho23
