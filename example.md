@@ -8,8 +8,8 @@
 ---
 # **Education** 
 
-###### + **SKKU**, South Korea
-    B.S., Computer Engineering, 2023~
++ **SKKU**, South Korea
+   ###### B.S., Computer Engineering, 2023~
 ---
 # **Achievements and Certifications**
 
